@@ -32,7 +32,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### web端
-![Image web端](https://github.com/xudaile/fastice-tech/tree/master/static/other/web.png)
+![Alt web端](https://github.com/xudaile/fastice-tech/tree/master/static/other/web.png)
 
 ### mobile端
-![Image mobile端](https://github.com/xudaile/fastice-tech/tree/master/static/other/web.png)
+![Alt mobile端](https://github.com/xudaile/fastice-tech/tree/master/static/other/mobile.png)
