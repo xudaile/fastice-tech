@@ -2,6 +2,8 @@
 
 #### Description
 坚冰官网
+在线显示： https://wwww.fastice-tech.com
+
 
 ## Project setup
 ```
@@ -31,8 +33,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### web端
+### web端图片
 ![web端](https://github.com/xudaile/fastice-tech/tree/master/static/other/web.png)
 
-### mobile端
+### mobile端图片
 ![mobile端](https://github.com/xudaile/fastice-tech/tree/master/static/other/mobile.png)
